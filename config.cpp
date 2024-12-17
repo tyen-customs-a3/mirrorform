@@ -16,7 +16,6 @@ class CfgPatches
 
 class CfgWeapons
 {
-	class ItemInfo;
 	class UniformItem;
 	class Uniform_Base;
 
